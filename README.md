@@ -1,3 +1,3 @@
-# HEADING OF THE PAGE\
+# HEADING OF THE PAGE
 
 this is a description
